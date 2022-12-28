@@ -1,6 +1,6 @@
 import requests
 
-TOKEN = "5645942050:AAFeK453jVLJfdAlg2359HR4NYjB2vU9A9Q"
+TOKEN = "5488524499:AAG1Jsp4ESZ_MRpPVLbqeOM12WEhrj-MXIg"
 ROOT_URL = f"https://api.telegram.org/bot{TOKEN}"
 
 
