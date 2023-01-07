@@ -1,4 +1,4 @@
-# @LudvigDodiBot
+# @EchoBot
 
 This is simple Telegram ECHO bot.
 
